@@ -1,0 +1,14 @@
+const color = {
+    accent: "#879aba",
+    background: "#f3f3f5",
+    primary: "#6f7d95",
+    primary50: "#6f7d9580",
+    secondary: "#acb7c9",
+    secondary50: "#acb7c980",
+    text: "#353545",
+    text50: "#0f0f1080",
+};
+
+export {
+    color
+}
